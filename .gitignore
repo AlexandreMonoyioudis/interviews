@@ -1,0 +1,7 @@
+/target/
+/out/
+/target_classes/
+/target_test-classes/
+*.class
+
+.fake
