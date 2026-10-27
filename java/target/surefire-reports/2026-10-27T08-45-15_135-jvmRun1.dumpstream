@@ -1,0 +1,6 @@
+# Created at 2026-10-27T08:45:15.570
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[0.011s][warning][cds] The shared archive file version 0x14 does not match the required version 0x13.'.
+
+# Created at 2026-10-27T08:45:16.253
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[0.011s][warning][cds] The shared archive file has the wrong version.'.
+
